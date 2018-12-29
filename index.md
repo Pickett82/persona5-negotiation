@@ -279,7 +279,7 @@
 	</tr>
 	<tr>
 		<td>I'm not that young.</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>I'm not sleepy yet.</td>
