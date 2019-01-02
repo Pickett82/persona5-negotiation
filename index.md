@@ -976,7 +976,7 @@
 	</tr>
 	<tr>
 		<td>Don't toy with me.</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
 		<td>I don't understand.</td>
@@ -1239,7 +1239,7 @@
 	</tr>
 	<tr>
 		<td>Are you giving up?</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 </table>
 <table>
