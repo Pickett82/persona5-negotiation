@@ -2506,7 +2506,7 @@
 	</tr>
 	<tr>
 		<td>Like a disco ball.</td>
-		<td></td>
+		<td>ok - upbeat</td>
 	</tr>
 	<tr>
 		<td>Not at all.</td>
