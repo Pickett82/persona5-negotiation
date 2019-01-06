@@ -1830,7 +1830,7 @@
 	</tr>
 	<tr>
 		<td>A coupon for a massage by me.</td>
-		<td></td>
+		<td>bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>I'll quietly be at your side.</td>
