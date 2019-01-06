@@ -1163,7 +1163,7 @@
 	</tr>
 	<tr>
 		<td>I suppose so.</td>
-		<td>bad - irritable</td>
+		<td>bad - irritable; ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>What don't you get.</td>
