@@ -2548,7 +2548,7 @@
 	</tr>
 	<tr>
 		<td>I want to end this fate.</td>
-		<td>ok - irritable </td>
+		<td>ok - irritable; bad - gloomy </td>
 	</tr>
 </table>
 <table>
