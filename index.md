@@ -627,7 +627,7 @@
 	</tr>
 	<tr>
 		<td>I'm not hospitable.</td>
-		<td>ok - irritable</td>
+		<td>ok - irritable; good - gloomy</td>
 	</tr>
 </table>
 <table>
