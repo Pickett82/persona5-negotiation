@@ -1911,7 +1911,7 @@
 	</tr>
 	<tr>
 		<td>It's not like that.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>Nothing but bad things...</td>
