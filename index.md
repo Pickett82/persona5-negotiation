@@ -1439,7 +1439,7 @@
 	</tr>
 	<tr>
 		<td>I'm always so busy there.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>It's better than here.</td>
