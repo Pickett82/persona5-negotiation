@@ -1460,7 +1460,7 @@
 	</tr>
 	<tr>
 		<td>That's horrible premise.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 </table>
 <table>
