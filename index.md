@@ -1035,7 +1035,7 @@
 	</tr>
 	<tr>
 		<td>This is a difficult topic...</td>
-		<td>ok - irritable</td>
+		<td>ok - irritable; good - gloomy</td>
 	</tr>
 </table>
 <table>
