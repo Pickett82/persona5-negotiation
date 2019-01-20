@@ -1915,7 +1915,7 @@
 	</tr>
 	<tr>
 		<td>Nothing but bad things...</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>You're getting on my nerves!</td>
