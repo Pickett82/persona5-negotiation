@@ -1983,7 +1983,7 @@
 	</tr>
 	<tr>
 		<td>I don't feel like going.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>I actually finished school.</td>
