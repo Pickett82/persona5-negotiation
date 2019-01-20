@@ -2527,7 +2527,7 @@
 	</tr>
 	<tr>
 		<td>That's not very fun.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>You dirty old man.</td>
