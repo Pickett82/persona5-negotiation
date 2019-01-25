@@ -296,7 +296,7 @@
 	</tr>
 	<tr>
 		<td>This is a misunderstanding.</td>
-		<td>good - timid</td>
+		<td>good - timid; bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>I don't have the time.</td>
