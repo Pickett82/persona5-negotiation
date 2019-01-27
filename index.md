@@ -1052,7 +1052,7 @@
 	</tr>
 	<tr>
 		<td>You'll be my new stylish coat.</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 </table>
 <table>
