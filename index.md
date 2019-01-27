@@ -1486,7 +1486,7 @@
 	</tr>
 	<tr>
 		<td>Sorry...</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>Not my problem.</td>
