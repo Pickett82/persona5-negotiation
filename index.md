@@ -1932,7 +1932,7 @@
 	</tr>
 	<tr>
 		<td>You don't get to be picky.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>It's all the same.</td>
