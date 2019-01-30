@@ -1133,7 +1133,7 @@
 	</tr>
 	<tr>
 		<td>Fine, I'll grill you.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>Alright, I'll mince you.</td>
