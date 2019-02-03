@@ -1252,7 +1252,7 @@
 	</tr>
 	<tr>
 		<td>Loud talkers...</td>
-		<td></td>
+		<td>good - timid</td>
 	</tr>
 	<tr>
 		<td>Nobody.</td>
