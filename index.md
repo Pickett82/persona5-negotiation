@@ -355,7 +355,7 @@
 	</tr>
 	<tr>
 		<td>You're a sore loser.</td>
-		<td>ok - upbeat</td>
+		<td>ok - upbeat; good - timid</td>
 	</tr>
 </table>
 <table>
