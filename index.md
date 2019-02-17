@@ -2476,7 +2476,7 @@
 	</tr>
 	<tr>
 		<td>How about sushi...?</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 	<tr>
 		<td>I have nothing for you.</td>
