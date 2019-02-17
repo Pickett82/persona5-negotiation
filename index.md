@@ -338,7 +338,7 @@
 	</tr>
 	<tr>
 		<td>I'm not desperate.</td>
-		<td></td>
+		<td>ok - upbeat</td>
 	</tr>
 </table>
 <table>
