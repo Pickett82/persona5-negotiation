@@ -2391,7 +2391,7 @@
 	</tr>
 	<tr>
 		<td>There are other ways to live.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>You had a good run.</td>
