@@ -436,7 +436,7 @@
 	</tr>
 	<tr>
 		<td>Prepare for the worst.</td>
-		<td>bad - gloomy</td>
+		<td>bad - gloomy; good - timid</td>
 	</tr>
 	<tr>
 		<td>How much do you want?</td>
