@@ -589,7 +589,7 @@
 	</tr>
 	<tr>
 		<td>A weathly housewife.</td>
-		<td>good - irritable</td>
+		<td>good - upbeat, ok - irritable</td>
 	</tr>
 	<tr>
 		<td>Living in the darkness.</td>
@@ -1248,7 +1248,7 @@
 	</tr>
 	<tr>
 		<td>Slow walkers.</td>
-		<td>ok - irritable; good - gloomy</td>
+		<td>ok - irritable; ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>Loud talkers...</td>
@@ -1256,7 +1256,7 @@
 	</tr>
 	<tr>
 		<td>Nobody.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1473,7 +1473,7 @@
 	</tr>
 	<tr>
 		<td>Age doesn't matter.</td>
-		<td></td>
+		<td>good - upbeat(?)</td>
 	</tr>
 	<tr>
 		<td>This isn't extreme.</td>
