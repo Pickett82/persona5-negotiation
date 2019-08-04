@@ -511,7 +511,7 @@
 		<td>ok - timid</td>
 	</tr>
 </table>
-<table>
+<table>6
 	<tr>
 		<th colspan="2">Humans always want either an autograph or a self-hee, ho. Which is it, ho?</th>
 	</tr>
@@ -2646,7 +2646,7 @@
 	</tr>
 	<tr>
 		<td>I would never cry.</td>
-		<td></td>
+		<td>bad - upbeat</td>
 	</tr>
 	<tr>
 		<td>I want to see your fury.</td>
