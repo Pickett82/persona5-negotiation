@@ -2455,7 +2455,7 @@
 	</tr>
 	<tr>
 		<td>Fair enough.</td>
-		<td>good - upbeat</td>
+		<td>good - upbeat, good - timid</td>
 	</tr>
 	<tr>
 		<td>That is incorrect.</td>
@@ -2718,6 +2718,23 @@
 	</tr>
 	<tr>
 		<td>I'll make "that girl" happy.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Hey. Aren’t you hungry? Can we take a break and go eat somewhere?</th>
+	</tr>
+	<tr>
+		<td>What do you want to eat?</td>
+		<td>good - upbeat</td>
+	</tr>
+	<tr>
+		<td>If we split the cost.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I'm on a diet.</td>
 		<td></td>
 	</tr>
 </table>
