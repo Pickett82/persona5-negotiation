@@ -130,11 +130,11 @@
 	</tr>
 	<tr>
 		<td>She probably left.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>What kind of girl is she?</td>
-		<td>ok - irritable; good - timid</td>
+		<td>meh - irritable; good - timid</td>
 	</tr>
 </table>
 <table>
@@ -160,7 +160,7 @@
 	</tr>
 	<tr>
 		<td>I have.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>That's not it.</td>
@@ -198,7 +198,7 @@
 	</tr>
 	<tr>
 		<td>You're trying way too hard.</td>
-		<td>ok - timid; good - irritable, upbeat</td>
+		<td>meh - timid; good - irritable, upbeat</td>
 	</tr>
 	<tr>
 		<td>I'm not interested.</td>
@@ -215,7 +215,7 @@
 	</tr>
 	<tr>
 		<td>I want to aim higher.</td>
-		<td>ok - upbeat, timid</td>
+		<td>meh - upbeat, timid</td>
 	</tr>
 	<tr>
 		<td>Fighting is pointless.</td>
@@ -236,7 +236,7 @@
 	</tr>
 	<tr>
 		<td>It's for self-improvement.</td>
-		<td>good - timid; ok - gloomy</td>
+		<td>good - timid; meh - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -245,7 +245,7 @@
 	</tr>
 	<tr>
 		<td>Parents are annoying.</td>
-		<td>ok - timid</td>
+		<td>meh - timid</td>
 	</tr>
 	<tr>
 		<td>You should love your parents.</td>
@@ -262,7 +262,7 @@
 	</tr>
 	<tr>
 		<td>I'm younger than you.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>I'm cuter than you.</td>
@@ -304,7 +304,7 @@
 	</tr>
 	<tr>
 		<td>You've got the wrong idea.</td>
-		<td>bad - gloomy; ok - irritable</td>
+		<td>bad - gloomy; meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -313,7 +313,7 @@
 	</tr>
 	<tr>
 		<td>Relax at home.</td>
-		<td>bad - gloomy; ok - upbeat, irritable</td>
+		<td>meh - upbeat, irritable; bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>Go impulse shopping.</td>
@@ -334,7 +334,7 @@
 	</tr>
 	<tr>
 		<td>There's something I must do.</td>
-		<td>good - timid; ok - gloomy</td>
+		<td>good - timid; meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>I'm not desperate.</td>
@@ -351,11 +351,11 @@
 	</tr>
 	<tr>
 		<td>I'm fine as is.</td>
-		<td>ok - timid; good - irritable</td>
+		<td>meh - timid; good - irritable</td>
 	</tr>
 	<tr>
 		<td>You're a sore loser.</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -381,7 +381,7 @@
 	</tr>
 	<tr>
 		<td>Your looks.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>You seemed useful.</td>
@@ -423,7 +423,7 @@
 	</tr>
 	<tr>
 		<td>You have a boyfriend?</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -432,7 +432,7 @@
 	</tr>
 	<tr>
 		<td>I'm sorry.</td>
-		<td>ok - upbeat; bad - upbeat; good - irritable</td>
+		<td>meh - upbeat; bad - upbeat; good - irritable</td>
 	</tr>
 	<tr>
 		<td>Prepare for the worst.</td>
@@ -440,7 +440,7 @@
 	</tr>
 	<tr>
 		<td>How much do you want?</td>
-		<td>bad - irritable, upbeat; good - upbeat</td>
+		<td> good - upbeat; bad - irritable, upbeat</td>
 	</tr>
 </table>
 <table>
@@ -508,7 +508,7 @@
 	</tr>
 	<tr>
 		<td>Girl power.</td>
-		<td>ok - timid</td>
+		<td>meh - timid</td>
 	</tr>
 </table>
 <table>6
@@ -517,7 +517,7 @@
 	</tr>
 	<tr>
 		<td>I want an autograph.</td>
-		<td>bad - gloomy; ok - timid</td>
+		<td>bad - gloomy; meh - timid</td>
 	</tr>
 	<tr>
 		<td>I want a photo.</td>
@@ -534,11 +534,11 @@
 	</tr>
 	<tr>
 		<td>That's too far.</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 	<tr>
 		<td>What are your plans?</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>You had a good run...</td>
@@ -551,15 +551,15 @@
 	</tr>
 	<tr>
 		<td>I don't really train.</td>
-		<td>good - irritable </td>
+		<td>good - irritable; bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>I just have a knack for it.</td>
-		<td>ok - gloomy; bad - irritable</td>
+		<td>meh - gloomy; bad - irritable</td>
 	</tr>
 	<tr>
 		<td>Luck's usually on my side.</td>
-		<td>ok - timid; good - upbeat</td>
+		<td>good - upbeat; meh - timid; bad - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -589,7 +589,7 @@
 	</tr>
 	<tr>
 		<td>A weathly housewife.</td>
-		<td>good - upbeat, ok - irritable</td>
+		<td>good - upbeat, meh - irritable</td>
 	</tr>
 	<tr>
 		<td>Living in the darkness.</td>
@@ -627,7 +627,7 @@
 	</tr>
 	<tr>
 		<td>I'm not hospitable.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -644,7 +644,7 @@
 	</tr>
 	<tr>
 		<td>A trip to hell.</td>
-		<td>bad - irritable; good - gloomy</td>
+		<td>good - gloomy; bad - irritable</td>
 	</tr>
 </table>
 <table>
@@ -695,7 +695,7 @@
 	</tr>
 	<tr>
 		<td>It's mature to admit defeat.</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -759,7 +759,7 @@
 	</tr>
 	<tr>
 		<td>I'm here for the women.</td>
-		<td>ok - timid</td>
+		<td>meh - timid</td>
 	</tr>
 	<tr>
 		<td>I'm here to find myself.</td>
@@ -840,7 +840,7 @@
 	</tr>
 	<tr>
 		<td>It does.</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 	<tr>
 		<td>Don't expect it.</td>
@@ -865,7 +865,7 @@
 	</tr>
 	<tr>
 		<td>I've done nothing wrong.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -877,12 +877,11 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>Popularity.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>There's no end if I start.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -925,11 +924,11 @@
 	</tr>
 	<tr>
 		<td>Give me something.</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 	<tr>
 		<td>Grovel before me.</td>
-		<td>good - upbeat; ok - irritable</td>
+		<td>good - upbeat; meh - irritable</td>
 	</tr>
 	<tr>
 		<td>I don't know.</td>
@@ -963,7 +962,7 @@
 	</tr>
 	<tr>
 		<td>I don't want kids.</td>
-		<td>ok - upbeat; good - irritable</td>
+		<td>meh - upbeat; good - irritable</td>
 	</tr>
 	<tr>
 		<td>I'm not comfortable with this.</td>
@@ -997,11 +996,11 @@
 	</tr>
 	<tr>
 		<td>Just endure it.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>Want something delivered?</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1018,7 +1017,7 @@
 	</tr>
 	<tr>
 		<td>Cougars are all the rage now.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1031,11 +1030,11 @@
 	</tr>
 	<tr>
 		<td>Humans are powerful.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>This is a difficult topic...</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1044,7 +1043,7 @@
 	</tr>
 	<tr>
 		<td>Eat you in a hot pot.</td>
-		<td>ok - irritable; bad - timid; good - gloomy</td>
+		<td>meh - irritable; bad - timid; good - gloomy</td>
 	</tr>
 	<tr>
 		<td>Take you to a taxidermist.</td>
@@ -1065,7 +1064,7 @@
 	</tr>
 	<tr>
 		<td>I haven't thought about it.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>Ugh, you talk too loud.</td>
@@ -1078,7 +1077,7 @@
 	</tr>
 	<tr>
 		<td>This was my choice.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>Fighting me is bad luck.</td>
@@ -1099,7 +1098,7 @@
 	</tr>
 	<tr>
 		<td>I'll housebreak you.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>Let me touch your paws.</td>
@@ -1120,7 +1119,7 @@
 	</tr>
 	<tr>
 		<td>Don't lie to me.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1146,7 +1145,7 @@
 	</tr>
 	<tr>
 		<td>I am.</td>
-		<td>ok - timid; good - irritable, gloomy</td>
+		<td>meh - timid; good - irritable, gloomy</td>
 	</tr>
 	<tr>
 		<td>I'm actually very busy.</td>
@@ -1154,7 +1153,7 @@
 	</tr>
 	<tr>
 		<td>Shut up.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1171,7 +1170,7 @@
 	</tr>
 	<tr>
 		<td>Nah, you totally won.</td>
-		<td>ok - gloomy; good - upbeat</td>
+		<td>meh - gloomy; good - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -1180,11 +1179,11 @@
 	</tr>
 	<tr>
 		<td>For real!?</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>That's worrying... </td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>...Try me.</td>
@@ -1201,7 +1200,7 @@
 	</tr>
 	<tr>
 		<td>It's part of my face.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>Try and rip it off me.</td>
@@ -1214,11 +1213,11 @@
 	</tr>
 	<tr>
 		<td>You're right, Senpai.</td>
-		<td>good - gloomy (?)</td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>I never thought about it.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>I prefer mutual respect.</td>
@@ -1231,7 +1230,7 @@
 	</tr>
 	<tr>
 		<td>A star?</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>That's never happening.</td>
@@ -1248,7 +1247,7 @@
 	</tr>
 	<tr>
 		<td>Slow walkers.</td>
-		<td>ok - irritable; ok - gloomy</td>
+		<td>meh - irritable; meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>Loud talkers...</td>
@@ -1265,7 +1264,7 @@
 	</tr>
 	<tr>
 		<td>It's unfair.</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 	<tr>
 		<td>Your fault for being tricked.</td>
@@ -1307,7 +1306,7 @@
 	</tr>
 	<tr>
 		<td>You're lying.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1350,7 +1349,7 @@
 	</tr>
 	<tr>
 		<td>Hamburgers.</td>
-		<td>ok - timid</td>
+		<td>meh - timid</td>
 	</tr>
 	<tr>
 		<td>Curry.</td>
@@ -1367,7 +1366,7 @@
 	</tr>
 	<tr>
 		<td>That?s right.</td>
-		<td>ok - timid</td>
+		<td>meh - timid</td>
 	</tr>
 	<tr>
 		<td>I won't tell you.</td>
@@ -1409,7 +1408,7 @@
 	</tr>
 	<tr>
 		<td>It pains my heart...</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1435,7 +1434,7 @@
 	</tr>
 	<tr>
 		<td>It's really boring.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>I'm always so busy there.</td>
@@ -1443,7 +1442,7 @@
 	</tr>
 	<tr>
 		<td>It's better than here.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1482,7 +1481,7 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">You knocked me down, and now my goddamn watch is broken!</th>
+		<th colspan="2">Yo, look what you did! You knocked me down, and now my goddamn watch is broken!</th>
 	</tr>
 	<tr>
 		<td>Sorry...</td>
@@ -1494,7 +1493,7 @@
 	</tr>
 	<tr>
 		<td>Don't lie.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1507,7 +1506,7 @@
 	</tr>
 	<tr>
 		<td>I just couldn't.</td>
-		<td>ok - upbeat, irritable</td>
+		<td>meh - upbeat, irritable</td>
 	</tr>
 	<tr>
 		<td>Is that reverse psychology?</td>
@@ -1528,7 +1527,7 @@
 	</tr>
 	<tr>
 		<td>I'm always alone.</td>
-		<td>ok - upbeat, irritable</td>
+		<td>meh - upbeat, irritable</td>
 	</tr>
 </table>
 <table>
@@ -1541,7 +1540,7 @@
 	</tr>
 	<tr>
 		<td>Shuddup...</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 	<tr>
 		<td>I'm actually still young...</td>
@@ -1690,7 +1689,7 @@
 	</tr>
 	<tr>
 		<td>Now that you mention it...</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>No, I don't think so.</td>
@@ -1728,7 +1727,7 @@
 	</tr>
 	<tr>
 		<td>I don't think its unfair.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>Don't fret about it.</td>
@@ -1792,7 +1791,7 @@
 	</tr>
 	<tr>
 		<td>I'm ready for it.</td>
-		<td>good - upbeat, ok - timid</td>
+		<td>good - upbeat, meh - timid</td>
 	</tr>
 	<tr>
 		<td>What kind of adversity?</td>
@@ -1817,7 +1816,7 @@
 	</tr>
 	<tr>
 		<td>All right i'll mince you!</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1877,7 +1876,7 @@
 	</tr>
 	<tr>
 		<td>Sometimes.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>No.</td>
@@ -1898,7 +1897,7 @@
 	</tr>
 	<tr>
 		<td>You're a loathsome foe.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>You sound preachy.</td>
@@ -1987,7 +1986,7 @@
 	</tr>
 	<tr>
 		<td>I actually finished school.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -2030,7 +2029,7 @@
 	</tr>
 	<tr>
 		<td>Quit joking around.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>You're fine as you are.</td>
@@ -2089,7 +2088,7 @@
 	</tr>
 	<tr>
 		<td>You're too self-conscious.</td>
-		<td>ok - irritable, gloomy; good - upbeat</td>
+		<td>meh - irritable, gloomy; good - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -2098,7 +2097,7 @@
 	</tr>
 	<tr>
 		<td>It's just you.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>It's coming from you.</td>
@@ -2123,7 +2122,7 @@
 	</tr>
 	<tr>
 		<td>This'll be your deathday too.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -2132,7 +2131,7 @@
 	</tr>
 	<tr>
 		<td>I care about my looks.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>It keeps my foes' blood off.</td>
@@ -2191,7 +2190,7 @@
 	</tr>
 	<tr>
 		<td>Quiet, I'm killing you now.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -2204,7 +2203,7 @@
 	</tr>
 	<tr>
 		<td>Making excuses?</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>I wasn't trying either.</td>
@@ -2234,7 +2233,7 @@
 	</tr>
 	<tr>
 		<td>My rival.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>Nobody, really.</td>
@@ -2251,7 +2250,7 @@
 	</tr>
 	<tr>
 		<td>That's true.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>That can't be true.</td>
@@ -2276,7 +2275,7 @@
 	</tr>
 	<tr>
 		<td>Shut up!</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -2340,7 +2339,7 @@
 	</tr>
 	<tr>
 		<td>I didn't think that far.</td>
-		<td>ok - gloomy</td>
+		<td>meh - gloomy</td>
 	</tr>
 	<tr>
 		<td>The feelings will come.</td>
@@ -2357,7 +2356,7 @@
 	</tr>
 	<tr>
 		<td>Are you bored?</td>
-		<td>ok - timid</td>
+		<td>meh - timid</td>
 	</tr>
 	<tr>
 		<td>That's a horrible premise.</td>
@@ -2387,7 +2386,7 @@
 	</tr>
 	<tr>
 		<td>It's not meaningless.</td>
-		<td>ok - timid</td>
+		<td>meh - timid</td>
 	</tr>
 	<tr>
 		<td>There are other ways to live.</td>
@@ -2404,7 +2403,7 @@
 	</tr>
 	<tr>
 		<td>I'll just keep winning.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>You're just a sore loser.</td>
@@ -2480,7 +2479,7 @@
 	</tr>
 	<tr>
 		<td>I have nothing for you.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -2493,7 +2492,7 @@
 	</tr>
 	<tr>
 		<td>I can't play with you.</td>
-		<td>ok - irritable</td>
+		<td>meh - irritable</td>
 	</tr>
 	<tr>
 		<td>You're not an animal.</td>
@@ -2544,11 +2543,11 @@
 	</tr>
 	<tr>
 		<td>There is no such thing.</td>
-		<td>ok - irritable ; good - timid</td>
+		<td>meh - irritable ; good - timid</td>
 	</tr>
 	<tr>
 		<td>I want to end this fate.</td>
-		<td>ok - irritable </td>
+		<td>meh - irritable </td>
 	</tr>
 </table>
 <table>
@@ -2561,7 +2560,7 @@
 	</tr>
 	<tr>
 		<td>I'll have more fun first.</td>
-		<td>ok - irritable </td>
+		<td>meh - irritable </td>
 	</tr>
 	<tr>
 		<td>Stop trying to act cool.</td>
@@ -2591,7 +2590,7 @@
 	</tr>
 	<tr>
 		<td>Hee-ho!</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 	<tr>
 		<td>Hee-haw!</td>
@@ -2633,7 +2632,7 @@
 	</tr>
 	<tr>
 		<td>Word of mouth.</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -2663,7 +2662,7 @@
 	</tr>
 	<tr>
 		<td>Now that you mention it...</td>
-		<td>ok - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 	<tr>
 		<td>...Cute?</td>
