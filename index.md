@@ -1244,7 +1244,7 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">What kind of guys piss you off?</th>
+		<th colspan="2">...Um, why're you going' for me? Ain't there worse people out there? What kind of guys piss you off?</th>
 	</tr>
 	<tr>
 		<td>Slow walkers.</td>
@@ -2077,7 +2077,7 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">You tryin' to get somethin' from me?</th>
+		<th colspan="2">...So uh, instead of killin' me, you started chattin' with me... You tryin' to get somethin' from me?</th>
 	</tr>
 	<tr>
 		<td>Yup.</td>
@@ -2094,7 +2094,7 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">Is it me, or does something stink?</th>
+		<th colspan="2">...Um, this has been buggin' me for a while, but... Is it me, or does something stink?</th>
 	</tr>
 	<tr>
 		<td>It's just you.</td>
@@ -2642,7 +2642,7 @@
 	</tr>
 	<tr>
 		<td>That's scary...</td>
-		<td>bad - upbeat</td>
+		<td>good - gloomy, bad - upbeat</td>
 	</tr>
 	<tr>
 		<td>I would never cry.</td>
@@ -2650,7 +2650,7 @@
 	</tr>
 	<tr>
 		<td>I want to see your fury.</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -2752,6 +2752,23 @@
 	</tr>
 	<tr>
 		<td>This is real.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">I'm just putting this out there, but you wouldn't treat me this way if I were younger, right? ...It's true, isn't it?</th>
+	</tr>
+	<tr>
+		<td>That's not it at all.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>You look young.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Cougars are all the rage now.</td>
 		<td></td>
 	</tr>
 </table>
