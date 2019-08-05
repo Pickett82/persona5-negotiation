@@ -205,23 +205,7 @@
 		<td></td>
 	</tr>
 </table>
-<table>
-	<tr>
-		<th colspan="2">How 'bout we have an interview? You're the winner, after all. I'll listen to whatever you gotta say.</th>
-	</tr>
-	<tr>
-		<td>I feel great.</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>I want to aim higher.</td>
-		<td>meh - upbeat, timid</td>
-	</tr>
-	<tr>
-		<td>Fighting is pointless.</td>
-		<td></td>
-	</tr>
-</table>
+
 <table>
 	<tr>
 		<th colspan="2">You carry a gun because you think it'll make you more popular with the girls?</th>
@@ -411,23 +395,6 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">I wanted to go on vacation, too, before all this happened...</th>
-	</tr>
-	<tr>
-		<td>That's too bad.</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>What are you getting at?</td>
-		<td>good - upbeat</td>
-	</tr>
-	<tr>
-		<td>You have a boyfriend?</td>
-		<td>meh - upbeat</td>
-	</tr>
-</table>
-<table>
-	<tr>
 		<th colspan="2">...I'm not going to go easy on you for doing something like this, you know...</th>
 	</tr>
 	<tr>
@@ -457,7 +424,7 @@
 	</tr>
 	<tr>
 		<td>What do you mean?</td>
-		<td>bad - upbeat</td>
+		<td>meh - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -920,23 +887,6 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">I lost. Here I lay, at your feet, at your mercy. Just what do you want from me?</th>
-	</tr>
-	<tr>
-		<td>Give me something.</td>
-		<td>meh - upbeat</td>
-	</tr>
-	<tr>
-		<td>Grovel before me.</td>
-		<td>good - upbeat; meh - irritable</td>
-	</tr>
-	<tr>
-		<td>I don't know.</td>
-		<td></td>
-	</tr>
-</table>
-<table>
-	<tr>
 		<th colspan="2">You not worry you get in trouble if those groups hear what you are doing to me?</th>
 	</tr>
 	<tr>
@@ -988,6 +938,57 @@
 </table>
 <table>
 	<tr>
+		<th colspan="2">I wanted to go on vacation, too, before all this happened...</th>
+	</tr>
+	<tr>
+		<td>That's too bad.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>What are you getting at?</td>
+		<td>good - upbeat</td>
+	</tr>
+	<tr>
+		<td>You have a boyfriend?</td>
+		<td>meh - upbeat</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">If your girlfriend asked if you were free to have dinner with her "friends", what would you say?</th>
+	</tr>
+	<tr>
+		<td>Sure.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I'm busy.</td>
+		<td>good - upbeat</td>
+	</tr>
+	<tr>
+		<td>What are you talking about?</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">You know, if I were to whip something up for you, what would you want?</th>
+	</tr>
+	<tr>
+		<td>Meat and potatoes.</td>
+		<td>good - upbeat</td>
+	</tr>
+	<tr>
+		<td>I don't need homemade food.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Can you actually cook?</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
 		<th colspan="2">Me really want to eat something.</th>
 	</tr>
 	<tr>
@@ -1001,23 +1002,6 @@
 	<tr>
 		<td>Want something delivered?</td>
 		<td>meh - gloomy</td>
-	</tr>
-</table>
-<table>
-	<tr>
-		<th colspan="2">...It's true, isn't it?</th>
-	</tr>
-	<tr>
-		<td>That's not it at all.</td>
-		<td>good - irritable</td>
-	</tr>
-	<tr>
-		<td>You look young.</td>
-		<td>good - upbeat; bad - irritable</td>
-	</tr>
-	<tr>
-		<td>Cougars are all the rage now.</td>
-		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1107,23 +1091,6 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">Well, I need to see myself home soon... </th>
-	</tr>
-	<tr>
-		<td>Just go home.</td>
-		<td>good - irritable</td>
-	</tr>
-	<tr>
-		<td>What do you mean?</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Don't lie to me.</td>
-		<td>meh - irritable</td>
-	</tr>
-</table>
-<table>
-	<tr>
 		<th colspan="2">I'll make you into soup.</th>
 	</tr>
 	<tr>
@@ -1154,23 +1121,6 @@
 	<tr>
 		<td>Shut up.</td>
 		<td>meh - gloomy</td>
-	</tr>
-</table>
-<table>
-	<tr>
-		<th colspan="2">Did I lose... ?</th>
-	</tr>
-	<tr>
-		<td>I suppose so.</td>
-		<td>bad - irritable</td>
-	</tr>
-	<tr>
-		<td>What don't you get.</td>
-		<td>good - irritable</td>
-	</tr>
-	<tr>
-		<td>Nah, you totally won.</td>
-		<td>meh - gloomy; good - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -1549,6 +1499,23 @@
 </table>
 <table>
 	<tr>
+		<th colspan="2">How 'bout we have an interview? You're the winner, after all. I'll listen to whatever you gotta say.</th>
+	</tr>
+	<tr>
+		<td>I feel great.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I want to aim higher.</td>
+		<td>meh - upbeat, timid</td>
+	</tr>
+	<tr>
+		<td>Fighting is pointless.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
 		<th colspan="2">You're violatin' the weapons code or whatever, man.</th>
 	</tr>
 	<tr>
@@ -1566,36 +1533,19 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">You know, if I were to whip something up for you, what would you want?</th>
+		<th colspan="2">Did I lose... ?</th>
 	</tr>
 	<tr>
-		<td>Meat and potatoes.</td>
-		<td>good - upbeat</td>
+		<td>I suppose so.</td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
-		<td>I don't need homemade food.</td>
-		<td></td>
+		<td>What don't you get.</td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
-		<td>Can you actually cook?</td>
-		<td></td>
-	</tr>
-</table>
-<table>
-	<tr>
-		<th colspan="2">If your girlfriend asked if you were free to have dinner with her "friends", what would you say?</th>
-	</tr>
-	<tr>
-		<td>Sure.</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>I'm busy.</td>
-		<td>good - upbeat</td>
-	</tr>
-	<tr>
-		<td>What are you talking about?</td>
-		<td></td>
+		<td>Nah, you totally won.</td>
+		<td>good - upbeat; meh - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -2072,6 +2022,57 @@
 	<tr>
 		<td>Nothing in particular.</td>
 		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">...It's true, isn't it?</th>
+	</tr>
+	<tr>
+		<td>That's not it at all.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>You look young.</td>
+		<td>good - upbeat; bad - irritable</td>
+	</tr>
+	<tr>
+		<td>Cougars are all the rage now.</td>
+		<td>meh - irritable</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">I lost. Here I lay, at your feet, at your mercy. Just what do you want from me?</th>
+	</tr>
+	<tr>
+		<td>Give me something.</td>
+		<td>meh - upbeat</td>
+	</tr>
+	<tr>
+		<td>Grovel before me.</td>
+		<td>good - upbeat; meh - irritable</td>
+	</tr>
+	<tr>
+		<td>I don't know.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Well, I need to see myself home soon... </th>
+	</tr>
+	<tr>
+		<td>Just go home.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>What do you mean?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Don't lie to me.</td>
+		<td>meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -2754,20 +2755,4 @@
 		<td></td>
 	</tr>
 </table>
-<table>
-	<tr>
-		<th colspan="2">I'm just putting this out there, but you wouldn't treat me this way if I were younger, right? ...It's true, isn't it?</th>
-	</tr>
-	<tr>
-		<td>That's not it at all.</td>
-		<td>good - irritable</td>
-	</tr>
-	<tr>
-		<td>You look young.</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>Cougars are all the rage now.</td>
-		<td></td>
-	</tr>
-</table>
+
