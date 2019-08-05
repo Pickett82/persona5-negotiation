@@ -1792,7 +1792,7 @@
 	</tr>
 	<tr>
 		<td>I'm ready for it.</td>
-		<td>ok - timid</td>
+		<td>good - upbeat, ok - timid</td>
 	</tr>
 	<tr>
 		<td>What kind of adversity?</td>
@@ -2735,6 +2735,23 @@
 	</tr>
 	<tr>
 		<td>I'm on a diet.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">This is all some kind of thing for the TV, ho! Where's the camera?</th>
+	</tr>
+	<tr>
+		<td>Wow, you got me.</td>
+		<td>bad - upbeat</td>
+	</tr>
+	<tr>
+		<td>What's all this now?</td>
+		<td>good - upbeat</td>
+	</tr>
+	<tr>
+		<td>This is real.</td>
 		<td></td>
 	</tr>
 </table>
