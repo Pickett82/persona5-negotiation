@@ -134,7 +134,7 @@
 	</tr>
 	<tr>
 		<td>What kind of girl is she?</td>
-		<td>meh - irritable; good - timid</td>
+		<td>good - timid; meh - irritable</td>
 	</tr>
 </table>
 <table>
@@ -177,7 +177,7 @@
 	</tr>
 	<tr>
 		<td>You're fine as is.</td>
-		<td>bad - gloomy; good - timid</td>
+		<td>good - timid; bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>Your act is a bit stale...</td>
@@ -198,7 +198,7 @@
 	</tr>
 	<tr>
 		<td>You're trying way too hard.</td>
-		<td>meh - timid; good - irritable, upbeat</td>
+		<td>good - irritable, upbeat; meh - timid</td>
 	</tr>
 	<tr>
 		<td>I'm not interested.</td>
@@ -335,7 +335,7 @@
 	</tr>
 	<tr>
 		<td>I'm fine as is.</td>
-		<td>meh - timid; good - irritable</td>
+		<td>good - irritable; meh - timid</td>
 	</tr>
 	<tr>
 		<td>You're a sore loser.</td>
@@ -399,7 +399,7 @@
 	</tr>
 	<tr>
 		<td>I'm sorry.</td>
-		<td>meh - upbeat; bad - upbeat; good - irritable</td>
+		<td>good - irritable; meh - upbeat; bad - upbeat</td>
 	</tr>
 	<tr>
 		<td>Prepare for the worst.</td>
@@ -912,7 +912,7 @@
 	</tr>
 	<tr>
 		<td>I don't want kids.</td>
-		<td>meh - upbeat; good - irritable</td>
+		<td>good - irritable; meh - upbeat</td>
 	</tr>
 	<tr>
 		<td>I'm not comfortable with this.</td>
@@ -1027,7 +1027,7 @@
 	</tr>
 	<tr>
 		<td>Eat you in a hot pot.</td>
-		<td>meh - irritable; bad - timid; good - gloomy</td>
+		<td>good - gloomy; meh - irritable; bad - timid</td>
 	</tr>
 	<tr>
 		<td>Take you to a taxidermist.</td>
@@ -1112,7 +1112,7 @@
 	</tr>
 	<tr>
 		<td>I am.</td>
-		<td>meh - timid; good - irritable, gloomy</td>
+		<td>good - irritable, gloomy; meh - timid</td>
 	</tr>
 	<tr>
 		<td>I'm actually very busy.</td>
@@ -1375,7 +1375,7 @@
 	</tr>
 	<tr>
 		<td>I'm not irritated.</td>
-		<td>bad - gloomy; good - timid</td>
+		<td>good - timid; bad - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1741,7 +1741,7 @@
 	</tr>
 	<tr>
 		<td>I'm ready for it.</td>
-		<td>good - upbeat, meh - timid</td>
+		<td>good - upbeat; meh - timid</td>
 	</tr>
 	<tr>
 		<td>What kind of adversity?</td>
@@ -2089,7 +2089,7 @@
 	</tr>
 	<tr>
 		<td>You're too self-conscious.</td>
-		<td>meh - irritable, gloomy; good - upbeat</td>
+		<td>good - upbeat; meh - irritable, gloomy</td>
 	</tr>
 </table>
 <table>
@@ -2455,7 +2455,7 @@
 	</tr>
 	<tr>
 		<td>Fair enough.</td>
-		<td>good - upbeat, good - timid</td>
+		<td>good - upbeat, timid</td>
 	</tr>
 	<tr>
 		<td>That is incorrect.</td>
@@ -2544,7 +2544,7 @@
 	</tr>
 	<tr>
 		<td>There is no such thing.</td>
-		<td>meh - irritable ; good - timid</td>
+		<td>good - timid; meh - irritable</td>
 	</tr>
 	<tr>
 		<td>I want to end this fate.</td>
