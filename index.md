@@ -2718,7 +2718,7 @@
 	</tr>
 	<tr>
 		<td>I'll make "that girl" happy.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -2752,6 +2752,23 @@
 	</tr>
 	<tr>
 		<td>But you're a Shadow.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">What did you want, coming all the way to a place like this?</th>
+	</tr>
+	<tr>
+		<td>A thrlling adventure.</td>
+		<td>ok - gloomy</td>
+	</tr>
+	<tr>
+		<td>A treasure hunt.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Slaughter</td>
 		<td></td>
 	</tr>
 </table>
