@@ -874,7 +874,7 @@
 	</tr>
 	<tr>
 		<td>More sleep.</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
 		<td>Popularity.</td>
