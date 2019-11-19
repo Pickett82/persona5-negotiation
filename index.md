@@ -2772,3 +2772,20 @@
 		<td></td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">Hey, mister, will you gimme a yummy snack to eat?</th>
+	</tr>
+	<tr>
+		<td>Later.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>No.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Don't eat between meals</td>
+		<td>good - gloomy</td>
+	</tr>
+</table>
