@@ -640,7 +640,7 @@
 	</tr>
 	<tr>
 		<td>A hitchhiking adventure.</td>
-		<td></td>
+		<td>ok - Upbeat</td>
 	</tr>
 	<tr>
 		<td>A trip to hell.</td>
