@@ -1,3 +1,10 @@
+| Type      |  Likes  | Dislikes        |
+|-----------|---------|-----------------|
+| Gloomy    | Vague   | Serious, Funny  |
+| Irritable | Serious | Vague, Kind     |
+| Timid     | Kind    | Vague, Funny    |
+| Upbeat    | Funny   | Serious, Vague  |
+
 | Description               | Shadow           | Personality |
 |---------------------------|------------------|-------------|
 | Crypt-dwelling Pyromaniac | Jack-o-Lantern   | Gloomy      |
@@ -29,11 +36,11 @@
 | Bringer of Misfortune     | Shiki-Ouji       | Irritable   |
 |                           |                  |             |
 | Ascended Feline           | Nekomata         | Upbeat      |
-| Prankster Leader          | High Pixie       |             |
-| Zealous Messenger         | Angel            |             |
+| Prankster Leader          | High Pixie       | Irritable   |
+| Zealous Messenger         | Angel            | Irritable   |
 | Twin-headed Guardian      | Orthrus          | Irritable   |
 | Equine Sage               | Orobas           | Timid       |
-| Chivalrous Fiend          | Oni              |             |
+| Chivalrous Fiend          | Oni              | Upbeat      |
 | Human-eating Lady         | Yaksini          | Irritable   |
 | Jealous Lover             | Leanan Sidhe     | Irritable   |
 | Battle Fiend              | Rakshasa         | Irritable   |
@@ -352,7 +359,7 @@
 	</tr>
 	<tr>
 		<td>There's no need to explain.</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 	<tr>
 		<td>Just shut up.</td>
@@ -369,11 +376,11 @@
 	</tr>
 	<tr>
 		<td>You seemed useful.</td>
-		<td>good - gloomy</td>
+		<td>good - gloomy, irritable</td>
 	</tr>
 	<tr>
 		<td>No particular reason.</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 </table>
 <table>
@@ -446,6 +453,23 @@
 </table>
 <table>
 	<tr>
+		<th colspan="2">Me want you to give me some nice "words of compassion"--as my rival--as me pass away...!</th>
+	</tr>
+	<tr>
+		<td>Die in peace.</td>
+		<td>ok - irritable</td>
+	</tr>
+	<tr>
+		<td>Why show mercy to my enemy?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>... I got nothing.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
 		<th colspan="2">What you thinking now?</th>
 	</tr>
 	<tr>
@@ -454,7 +478,7 @@
 	</tr>
 	<tr>
 		<td>I need a new cell phone.</td>
-		<td>bad - gloomy</td>
+		<td>bad - gloomy, ok - irritable</td>
 	</tr>
 	<tr>
 		<td>I want girls to like me.</td>
@@ -515,7 +539,7 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">Youâ€™re showing off your strength to me, arenâ€™t you? I total-hee read your mind, ho.</th>
+		<th colspan="2">You’re showing off your strength to me, aren’t you? I total-hee read your mind, ho.</th>
 	</tr>
 	<tr>
 		<td>You're misunderstanding.</td>
@@ -757,7 +781,7 @@
 	</tr>
 	<tr>
 		<td>I think there is.</td>
-		<td>good - upbeat, timid</td>
+		<td>good - upbeat, timid ; ok - irritable</td>
 	</tr>
 	<tr>
 		<td>I can't promise that.</td>
@@ -1062,7 +1086,7 @@
 	</tr>
 	<tr>
 		<td>Times have changed.</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>Humans are powerful.</td>
@@ -1250,7 +1274,7 @@
 	</tr>
 	<tr>
 		<td>A star?</td>
-		<td>meh - gloomy</td>
+		<td>good - irritable; ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>That's never happening.</td>
@@ -1522,7 +1546,7 @@
 	</tr>
 	<tr>
 		<td>Are you busy?</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>I just couldn't.</td>
@@ -2185,7 +2209,7 @@
 	</tr>
 	<tr>
 		<td>Happy birthday.</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>I had no idea.</td>
@@ -2542,7 +2566,7 @@
 	</tr>
 	<tr>
 		<td>Katsudon, coming right up.</td>
-		<td>good - irritable</td>
+		<td>good - irritable, timid</td>
 	</tr>
 	<tr>
 		<td>How about sushi...?</td>
@@ -2584,7 +2608,7 @@
 	</tr>
 	<tr>
 		<td>Why does that matter?</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 </table>
 <table>
@@ -2636,6 +2660,40 @@
 	<tr>
 		<td>Stop trying to act cool.</td>
 		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">If your girlfriend asked you if you were free to have [...] with her "friends," what would you say?</th>
+	</tr>
+	<tr>
+		<td>Sure.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I'm busy.</td>
+		<td>good - upbeat</td>
+	</tr>
+	<tr>
+		<td>What are you talking about?</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">You know... If you're willing to let this go... I'll make it worth your while.</th>
+	</tr>
+	<tr>
+		<td>Worth my while...?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>No way.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>I'm already taken.</td>
+		<td>good - upbeat, irritable</td>
 	</tr>
 </table>
 <table>
@@ -2895,7 +2953,7 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">Hey. Arenâ€™t you hungry? Can we take a break and go eat somewhere?</th>
+		<th colspan="2">Hey. Aren’t you hungry? Can we take a break and go eat somewhere?</th>
 	</tr>
 	<tr>
 		<td>What do you want to eat?</td>
@@ -2929,12 +2987,12 @@
 </table>
 <table>
 	<tr>
-        <th>Hey, how about this? If you donâ€™t shoot me, then Iâ€™ll kiss you. Not a bad deal, right?</th>
+        <th>Hey, how about this? If you don’t shoot me, then I’ll kiss you. Not a bad deal, right?</th>
 	</tr>
 	<tr>
-        <td>Not a bad idea. â™ª</td>
+        <td>Not a bad idea. ?</td>
         <td></td>
-        <td>I donâ€™t want a kiss.</td>
+        <td>I don’t want a kiss.</td>
         <td></td>
         <td>Have some self-respect.</td>
         <td>bad - upbeat</td>
@@ -2946,14 +3004,14 @@
 	<tr>
         <td>Looks like it came true</td>
         <td></td>
-        <td>Itâ€™s just a horoscope</td>
+        <td>It’s just a horoscope</td>
         <td></td>
         <td>How is your luck in romance?</td>
         <td>good - upbeat</td>
 </table>
 <table>
 	<tr>
-        <th>Is it because Iâ€™m not acting mature enough? Like, what the heck makes someone mature, anyway?</th>
+        <th>Is it because I’m not acting mature enough? Like, what the heck makes someone mature, anyway?</th>
 	</tr>
 	<tr>
         <td>Being old enough to drink.</td>
@@ -3003,7 +3061,7 @@ Irritable?
 
 <table>
     <tr>
-        <th>Under your maskâ€¦ youâ€™re actually handsome.</th>
+        <th>Under your mask… you’re actually handsome.</th>
         <td>Not at all.</td>
         <td></td>
         <td>How did you know?</td>
@@ -3014,11 +3072,11 @@ Irritable?
 </table>
 <table>
     <tr>
-        <th>Weâ€™ll just say you win. So can we stop this? </th>
+        <th>We’ll just say you win. So can we stop this? </th>
         <td></td>
         <td>I feel bad.</td>
         <td>good - irritable</td>
-        <td>I donâ€™t agree with this.</td>
+        <td>I don’t agree with this.</td>
         <td></td>
         <td>We can say you won.</td>
         <td></td>
@@ -3026,13 +3084,13 @@ Irritable?
 </table>
 <table>
     <tr>
-        <th>Are there only menâ€™s? Where did you get it? </th>
+        <th>Are there only men’s? Where did you get it? </th>
         <td></td>
         <td>A thrift shop.</td>
         <td>good - irritable</td>
         <td>Internet shopping</td>
         <td></td>
-        <td>Itâ€™s not available for sale.</td>
+        <td>It’s not available for sale.</td>
         <td></td>
     </tr>	
 </table>
@@ -3044,7 +3102,7 @@ Irritable?
         <td>good - irritable</td>
         <td>A Kimono</td>
         <td></td>
-        <td>Donâ€™t wear anything</td>
+        <td>Don’t wear anything</td>
         <td>meh - irritable</td>
     </tr>
 </table>
