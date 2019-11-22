@@ -2790,3 +2790,20 @@
 		<td>good - gloomy</td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<th colspan="2">What's wrong with the way I look?</th>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>You're ugly.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
