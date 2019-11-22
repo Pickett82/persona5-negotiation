@@ -2472,7 +2472,7 @@
 	</tr>
 	<tr>
 		<td>I have ulterior motives.</td>
-		<td></td>
+		<td>bad - gloomy</td>
 	</tr>
 </table>
 <table>
