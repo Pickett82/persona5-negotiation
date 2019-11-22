@@ -874,7 +874,7 @@
 	</tr>
 	<tr>
 		<td>More sleep.</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
 		<td>Popularity.</td>
@@ -1355,7 +1355,7 @@
 	</tr>
 	<tr>
 		<td>Curry.</td>
-		<td></td>
+		<td>good - timid</td>
 	</tr>
 	<tr>
 		<td>Shut up.</td>
@@ -1920,7 +1920,7 @@
 	</tr>
 	<tr>
 		<td>You're getting on my nerves!</td>
-		<td>bad - upbeat</td>
+		<td>bad - upbeat; good - irritable</td>
 	</tr>
 </table>
 <table>
@@ -2719,6 +2719,74 @@
 	</tr>
 	<tr>
 		<td>I'll make "that girl" happy.</td>
+		<td>good - gloomy</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">...Very well. In the place of our Father, I shall listen to your complaints</th>
+	</tr>
+	<tr>
+		<td>Why can't we end war?</td>
 		<td></td>
+	</tr>
+	<tr>
+		<td>Taxes keep going up.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>I can't get a girlfriend.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">That is to say, we are brothers. There is no reason for us to fight</th>
+	</tr>
+	<tr>
+		<td>Leave my parents out of this.</td>
+		<td>good - irritable</td>
+	</tr>
+	<tr>
+		<td>We have the same "Father"?</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>But you're a Shadow.</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">What did you want, coming all the way to a place like this?</th>
+	</tr>
+	<tr>
+		<td>A thrlling adventure.</td>
+		<td>ok - gloomy</td>
+	</tr>
+	<tr>
+		<td>A treasure hunt.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Slaughter</td>
+		<td></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th colspan="2">Hey, mister, will you gimme a yummy snack to eat?</th>
+	</tr>
+	<tr>
+		<td>Later.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>No.</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Don't eat between meals</td>
+		<td>good - gloomy</td>
 	</tr>
 </table>
