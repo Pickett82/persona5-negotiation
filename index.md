@@ -1175,7 +1175,6 @@
 	</tr>
 	<tr>
 		<td>Fine, I'll grill you.</td>
-		<td></td>
 		<td>good - gloomy, good - irritable</td>
 	</tr>
 	<tr>
@@ -2987,39 +2986,54 @@
 </table>
 <table>
 	<tr>
-        <th>Hey, how about this? If you don't shoot me, then I'll kiss you. Not a bad deal, right?</th>
+        <th colspan="2">Hey, how about this? If you don't shoot me, then I'll kiss you. Not a bad deal, right?</th>
 	</tr>
 	<tr>
         <td>Not a bad idea. ?</td>
         <td></td>
+	</tr>
+	<tr>
         <td>I don't want a kiss.</td>
         <td></td>
+	</tr>
+	<tr>
         <td>Have some self-respect.</td>
         <td>bad - upbeat</td>
+	</tr>
 </table>
 <table>
 	<tr>
-        <th>My horoscope said I was going to have relationship troubles today.</th>
+        <th colspan="2">My horoscope said I was going to have relationship troubles today.</th>
 	</tr>
 	<tr>
         <td>Looks like it came true</td>
         <td></td>
+	</tr>
+	<tr>
         <td>It's just a horoscope</td>
         <td></td>
+	</tr>
+	<tr>
         <td>How is your luck in romance?</td>
         <td>good - upbeat</td>
+	</tr>
 </table>
 <table>
 	<tr>
-        <th>Is it because I'm not acting mature enough? Like, what the heck makes someone mature, anyway?</th>
+        <th colspan="2">Is it because I'm not acting mature enough? Like, what the heck makes someone mature, anyway?</th>
 	</tr>
 	<tr>
         <td>Being old enough to drink.</td>
         <td></td>
+	</tr>
+	<tr>
         <td>Paying your own rent.</td>
         <td></td>
+	</tr>
+	<tr>
         <td>Questioning maturity.</td>
         <td>good - upbeat</td>
+	</tr>
 </table>
 <table>
 	<tr>
@@ -3057,7 +3071,7 @@
 </table>
 <table>
     <tr>
-        <th colspan="2">Under your mask… you're actually handsome.</th>
+        <th colspan="2">Under your mask... you're actually handsome.</th>
 	</tr>
 	<tr>
         <td>Not at all.</td>
