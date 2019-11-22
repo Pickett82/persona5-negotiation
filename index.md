@@ -539,7 +539,7 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">You’re showing off your strength to me, aren’t you? I total-hee read your mind, ho.</th>
+		<th colspan="2">You're showing off your strength to me, aren't you? I total-hee read your mind, ho.</th>
 	</tr>
 	<tr>
 		<td>You're misunderstanding.</td>
@@ -2953,7 +2953,7 @@
 </table>
 <table>
 	<tr>
-		<th colspan="2">Hey. Aren’t you hungry? Can we take a break and go eat somewhere?</th>
+		<th colspan="2">Hey. Aren't you hungry? Can we take a break and go eat somewhere?</th>
 	</tr>
 	<tr>
 		<td>What do you want to eat?</td>
@@ -2987,12 +2987,12 @@
 </table>
 <table>
 	<tr>
-        <th>Hey, how about this? If you don’t shoot me, then I’ll kiss you. Not a bad deal, right?</th>
+        <th>Hey, how about this? If you don't shoot me, then I'll kiss you. Not a bad deal, right?</th>
 	</tr>
 	<tr>
         <td>Not a bad idea. ?</td>
         <td></td>
-        <td>I don’t want a kiss.</td>
+        <td>I don't want a kiss.</td>
         <td></td>
         <td>Have some self-respect.</td>
         <td>bad - upbeat</td>
@@ -3004,14 +3004,14 @@
 	<tr>
         <td>Looks like it came true</td>
         <td></td>
-        <td>It’s just a horoscope</td>
+        <td>It's just a horoscope</td>
         <td></td>
         <td>How is your luck in romance?</td>
         <td>good - upbeat</td>
 </table>
 <table>
 	<tr>
-        <th>Is it because I’m not acting mature enough? Like, what the heck makes someone mature, anyway?</th>
+        <th>Is it because I'm not acting mature enough? Like, what the heck makes someone mature, anyway?</th>
 	</tr>
 	<tr>
         <td>Being old enough to drink.</td>
@@ -3055,54 +3055,71 @@
 		<td>good - irritable</td>
 	</tr>
 </table>
-
-
-Irritable?
-
 <table>
     <tr>
-        <th>Under your mask… you’re actually handsome.</th>
+        <th colspan="2">Under your mask… you're actually handsome.</th>
+	</tr>
+	<tr>
         <td>Not at all.</td>
         <td></td>
+	</tr>
+	<tr>
         <td>How did you know?</td>
         <td></td>
+	</tr>
+	<tr>
         <td>I look OK, I guess.</td>
         <td>good - irritable</td>
     </tr>
 </table>
 <table>
     <tr>
-        <th>We’ll just say you win. So can we stop this? </th>
-        <td></td>
+        <th colspan="2">We'll just say you win. So can we stop this? </th>
+	</tr>
+	<tr>
         <td>I feel bad.</td>
         <td>good - irritable</td>
-        <td>I don’t agree with this.</td>
+	</tr>
+	<tr>
+        <td>I don't agree with this.</td>
         <td></td>
+	</tr>
+	<tr>
         <td>We can say you won.</td>
         <td></td>
     </tr>
 </table>
 <table>
     <tr>
-        <th>Are there only men’s? Where did you get it? </th>
-        <td></td>
+        <th colspan="2">Are there only men's? Where did you get it? </th>
+	</tr>
+	<tr>
         <td>A thrift shop.</td>
         <td>good - irritable</td>
+	</tr>
+	<tr>
         <td>Internet shopping</td>
         <td></td>
-        <td>It’s not available for sale.</td>
+	</tr>
+	<tr>
+        <td>It's not available for sale.</td>
         <td></td>
     </tr>	
 </table>
 <table>
     <tr>
-        <th>What should I wear?</th>
-        <td></td>
+        <th colspan="2">What should I wear?</th>
+	</tr>
+	<tr>
         <td>A High School Outfit</td>
         <td>good - irritable</td>
+	</tr>
+	<tr>
         <td>A Kimono</td>
         <td></td>
-        <td>Don’t wear anything</td>
+	</tr>
+	<tr>
+        <td>Don't wear anything</td>
         <td>meh - irritable</td>
     </tr>
 </table>
