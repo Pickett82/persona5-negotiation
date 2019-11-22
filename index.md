@@ -249,7 +249,7 @@
 	</tr>
 	<tr>
 		<td>You should love your parents.</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 	<tr>
 		<td>Make sure you go home.</td>
@@ -279,7 +279,7 @@
 	</tr>
 	<tr>
 		<td>I'm not that young.</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>I'm not sleepy yet.</td>
@@ -338,7 +338,7 @@
 	</tr>
 	<tr>
 		<td>I'm not desperate.</td>
-		<td></td>
+		<td>ok - upbeat</td>
 	</tr>
 </table>
 <table>
@@ -355,7 +355,7 @@
 	</tr>
 	<tr>
 		<td>You're a sore loser.</td>
-		<td>ok - upbeat</td>
+		<td>ok - upbeat; good - timid</td>
 	</tr>
 </table>
 <table>
@@ -436,7 +436,7 @@
 	</tr>
 	<tr>
 		<td>Prepare for the worst.</td>
-		<td>bad - gloomy</td>
+		<td>bad - gloomy; good - timid</td>
 	</tr>
 	<tr>
 		<td>How much do you want?</td>
@@ -470,7 +470,7 @@
 	</tr>
 	<tr>
 		<td>No, I don't think so.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>It's what we call destiny.</td>
@@ -504,7 +504,7 @@
 	</tr>
 	<tr>
 		<td>It's money.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>Girl power.</td>
@@ -627,7 +627,7 @@
 	</tr>
 	<tr>
 		<td>I'm not hospitable.</td>
-		<td>ok - irritable</td>
+		<td>ok - irritable; good - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -729,7 +729,7 @@
 	</tr>
 	<tr>
 		<td>I don't want to grow old.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -976,7 +976,7 @@
 	</tr>
 	<tr>
 		<td>Don't toy with me.</td>
-		<td></td>
+		<td>bad - irritable</td>
 	</tr>
 	<tr>
 		<td>I don't understand.</td>
@@ -1035,7 +1035,7 @@
 	</tr>
 	<tr>
 		<td>This is a difficult topic...</td>
-		<td>ok - irritable</td>
+		<td>ok - irritable; good - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1052,7 +1052,7 @@
 	</tr>
 	<tr>
 		<td>You'll be my new stylish coat.</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1133,7 +1133,8 @@
 	</tr>
 	<tr>
 		<td>Fine, I'll grill you.</td>
-		<td>good - irritable</td>
+		<td></td>
+		<td>good - gloomy, good - irritable</td>
 	</tr>
 	<tr>
 		<td>Alright, I'll mince you.</td>
@@ -1163,7 +1164,7 @@
 	</tr>
 	<tr>
 		<td>I suppose so.</td>
-		<td>bad - irritable</td>
+		<td>bad - irritable; ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>What don't you get.</td>
@@ -1239,7 +1240,7 @@
 	</tr>
 	<tr>
 		<td>Are you giving up?</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 </table>
 <table>
@@ -1252,7 +1253,7 @@
 	</tr>
 	<tr>
 		<td>Loud talkers...</td>
-		<td></td>
+		<td>good - timid</td>
 	</tr>
 	<tr>
 		<td>Nobody.</td>
@@ -1439,7 +1440,7 @@
 	</tr>
 	<tr>
 		<td>I'm always so busy there.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>It's better than here.</td>
@@ -1460,7 +1461,7 @@
 	</tr>
 	<tr>
 		<td>That's horrible premise.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 </table>
 <table>
@@ -1486,7 +1487,7 @@
 	</tr>
 	<tr>
 		<td>Sorry...</td>
-		<td></td>
+		<td>good - irritable</td>
 	</tr>
 	<tr>
 		<td>Not my problem.</td>
@@ -1830,7 +1831,7 @@
 	</tr>
 	<tr>
 		<td>A coupon for a massage by me.</td>
-		<td></td>
+		<td>bad - gloomy</td>
 	</tr>
 	<tr>
 		<td>I'll quietly be at your side.</td>
@@ -1911,11 +1912,11 @@
 	</tr>
 	<tr>
 		<td>It's not like that.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>Nothing but bad things...</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>You're getting on my nerves!</td>
@@ -1932,7 +1933,7 @@
 	</tr>
 	<tr>
 		<td>You don't get to be picky.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>It's all the same.</td>
@@ -1983,7 +1984,7 @@
 	</tr>
 	<tr>
 		<td>I don't feel like going.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>I actually finished school.</td>
@@ -2391,7 +2392,7 @@
 	</tr>
 	<tr>
 		<td>There are other ways to live.</td>
-		<td></td>
+		<td>good - gloomy</td>
 	</tr>
 	<tr>
 		<td>You had a good run.</td>
@@ -2476,7 +2477,7 @@
 	</tr>
 	<tr>
 		<td>How about sushi...?</td>
-		<td></td>
+		<td>good - upbeat</td>
 	</tr>
 	<tr>
 		<td>I have nothing for you.</td>
@@ -2506,7 +2507,7 @@
 	</tr>
 	<tr>
 		<td>Like a disco ball.</td>
-		<td></td>
+		<td>ok - upbeat</td>
 	</tr>
 	<tr>
 		<td>Not at all.</td>
@@ -2527,7 +2528,7 @@
 	</tr>
 	<tr>
 		<td>That's not very fun.</td>
-		<td></td>
+		<td>ok - gloomy</td>
 	</tr>
 	<tr>
 		<td>You dirty old man.</td>
@@ -2548,7 +2549,7 @@
 	</tr>
 	<tr>
 		<td>I want to end this fate.</td>
-		<td>ok - irritable </td>
+		<td>ok - irritable; bad - gloomy </td>
 	</tr>
 </table>
 <table>
