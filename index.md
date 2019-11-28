@@ -598,7 +598,7 @@
 	</tr>
 	<tr>
 		<td>I just have a knack for it.</td>
-		<td>meh - gloomy; bad - irritable</td>
+		<td>meh - gloomy; bad - irritable; good - timid</td>
 	</tr>
 	<tr>
 		<td>Luck's usually on my side.</td>
@@ -1978,7 +1978,7 @@
 	</tr>
 	<tr>
 		<td>It's all the same.</td>
-		<td></td>
+		<td>ok - timid</td>
 	</tr>
 </table>
 <table>
@@ -2331,7 +2331,7 @@
 	</tr>
 	<tr>
 		<td>Nobody, really.</td>
-		<td>bad - gloomy</td>
+		<td>bad - gloomy; good - timid</td>
 	</tr>
 	<tr>
 		<td>It doesn't matter.</td>
@@ -2344,7 +2344,7 @@
 	</tr>
 	<tr>
 		<td>That's true.</td>
-		<td>meh - gloomy</td>
+		<td>meh - gloomy; good - timid</td>
 	</tr>
 	<tr>
 		<td>That can't be true.</td>
@@ -3135,5 +3135,22 @@
 	<tr>
         <td>Don't wear anything</td>
         <td>meh - irritable</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th colspan="2">I would never have accepted this task if I knew it would involve this sort of suffering.</th>
+	</tr>
+	<tr>
+        <td>What a pity...</td>
+        <td></td>
+	</tr>
+	<tr>
+        <td>Uninformed choices are bad</td>
+        <td></td>
+	</tr>
+	<tr>
+        <td>Complaining won't help</td>
+        <td>ok - timid</td>
     </tr>
 </table>
