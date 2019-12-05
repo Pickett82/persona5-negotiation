@@ -2658,7 +2658,7 @@
 	</tr>
 	<tr>
 		<td>Stop trying to act cool.</td>
-		<td></td>
+		<td>ok - irritable</td>
 	</tr>
 </table>
 <table>
