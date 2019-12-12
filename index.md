@@ -2348,7 +2348,7 @@
 	</tr>
 	<tr>
 		<td>That can't be true.</td>
-		<td></td>
+		<td>ok - upbeat</td>
 	</tr>
 	<tr>
 		<td>That's unrelated.</td>
@@ -3152,5 +3152,22 @@
 	<tr>
         <td>Complaining won't help</td>
         <td>ok - timid</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th colspan="2">I don't hate you. No, I don't feel that way at all...</th>
+	</tr>
+	<tr>
+        <td>Is that so?</td>
+        <td>good - upbeat</td>
+	</tr>
+	<tr>
+        <td>Too late.</td>
+        <td></td>
+	</tr>
+	<tr>
+        <td>Well, I hate you.</td>
+        <td></td>
     </tr>
 </table>
